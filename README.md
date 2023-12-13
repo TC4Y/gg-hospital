@@ -28,10 +28,8 @@ The page has the following contents included:
 5. Why GG is better section
 <img width="960" alt="WhyGG" src="https://github.com/TC4Y/gg-hospital/blob/7940c3b951b659c463bd526fe36d02a8812cda22/screenshots/Screenshot%20(15).png">
 6. Facilities and Activities
-<img width="960" alt="Facilities" src="">
+<img width="960" alt="Facilities" src="https://github.com/TC4Y/gg-hospital/blob/6f902352e3147e0e2c208086e0a5c9af0e2203bd/screenshots/6.PNG">
 7. You May Be Interested In section
-<img width="960" alt="Interests" src="">
+<img width="960" alt="Interests" src="https://github.com/TC4Y/gg-hospital/blob/6f902352e3147e0e2c208086e0a5c9af0e2203bd/screenshots/7.PNG">
 8. Footer
-<img width="960" alt="Footer" src="">
-9. Newsletter
-<img width="960" alt="newsletter" src="">
+<img width="960" alt="Footer" src="https://github.com/TC4Y/gg-hospital/blob/6f902352e3147e0e2c208086e0a5c9af0e2203bd/screenshots/8.PNG">
